@@ -1,10 +1,11 @@
 import './Header.css'
+import headerImg from '../../../public/img/GroupApp.png'
 
 export function Header() {
     return (
         <>
             <header className="header">
-                <img src="/public/img/GroupApp.png" alt="header group app" />
+                <img src={headerImg} alt="header group app" />
             </header>
         </>
     )

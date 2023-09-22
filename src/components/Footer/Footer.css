@@ -23,7 +23,7 @@
         cursor: pointer;
     }
 
-    & .logo-linkedin {
+    .linkedinIcon {
         width: 3rem;
     }
 
