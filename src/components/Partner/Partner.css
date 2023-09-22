@@ -1,0 +1,72 @@
+
+.cont-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 22.62rem;
+    height: 22.72rem;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    position: relative;
+}
+
+.likeIcon {
+    color: red;
+    width: 2.2rem;
+    height: 2.2rem;
+    cursor: pointer;
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+}
+
+.dislikeIcon {
+    width: 2.2rem;
+    height: 2.2rem;
+    cursor: pointer;
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+}
+
+.deleteIcon {
+    width: 2.2rem;
+    height: 2.2rem;
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    cursor: pointer;
+}
+
+.img-card {
+    position: relative;
+    top: -1.3rem;
+    width: 45%;
+    border-radius: 50%;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+
+.card-title {
+    color: var(--main-color-a);
+    text-align: center;
+    font-family: var(--font-subtitle);
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 600;
+    padding-bottom: 0.5rem;
+}
+
+.card-position {
+    text-align: center;
+    font-family: var(--font-subtitle);
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+}

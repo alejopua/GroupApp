@@ -1,0 +1,24 @@
+.miorg-content {
+    background: white;
+    height: 13rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.miorg-title {
+    font-family: var(--font-title);
+    color: var(--main-color-a);
+    padding-bottom: 2.4rem;
+    text-align: center;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 400;
+    border-bottom: 0.5rem solid var(--main-color-a);
+}
+
+.miorg-img {
+    position: absolute;
+    right: 30%;
+    cursor: pointer;
+}

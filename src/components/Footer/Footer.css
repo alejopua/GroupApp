@@ -1,0 +1,43 @@
+.footer {
+    width: 100%;
+    height: 23rem;
+    background-image: url(../../../public/img/Footer.png);
+    background-size: cover;
+    background-position: center;
+    padding: 2rem 20rem;
+    color: #fff;
+    font-family: var(--font-subtitle);
+    font-size: 2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-social {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    & .link {
+        cursor: pointer;
+    }
+
+    & .logo-linkedin {
+        width: 3rem;
+    }
+
+    & .logo-instagram {
+        width: 3rem;
+    }
+}
+
+.container-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    & .img-logo {
+        width: 2rem;
+    }
+}

@@ -1,0 +1,31 @@
+:root {
+  /* Fonts */
+  --font-title: 'Prata', serif;
+  --font-subtitle: 'Montserrat', sans-serif;
+
+  /* main colors */
+  --main-color-a: #6278f7;
+  --main-color-a1: #7185f7;
+  --main-color-b: #95FFD4;
+  --main-color-c: #F2F2F2;
+
+  /* secondary colors -> 1.background 2.highlights --groups*/
+  --background--prog: #D9F7E9;
+  --background--front: #E8F8FF;
+  --background--data: #F0F8E2;
+  --background--devops: #FDE7E8;
+  --background--ux: #FAE9F5;
+  --background--mobile: #FFF5D9;
+  --background--management: #FFEEDF;
+
+  --highlights--prog: #57C278;
+  --highlights--front: #82CFFA;
+  --highlights--data: #A6D157;
+  --highlights--devops: #E06B69;
+  --highlights--ux: #DB6EBF;
+  --highlights--mobile: #FFBA05;
+  --highlights--management: #FF8A29;
+
+  /* shadow */
+  --form-shadow: 2px 3px 6px 0px rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,23 @@
+.fm-datalist-label {
+    font-family: var(--font-subtitle);
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.fm-datalist-input {
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 1rem 1rem 3rem rgba(0, 0, 0, 0.06);
+    border: none;
+    padding: 2.2rem 2rem;
+    border-radius: 0 1rem 1rem 1rem;
+    outline-color: var(--main-color-a);
+    font-size: 1.6rem;
+    -webkit-border-radius: 0 1rem 1rem 1rem;
+    -moz-border-radius: 0 1rem 1rem 1rem;
+    -ms-border-radius: 0 1rem 1rem 1rem;
+    -o-border-radius: 0 1rem 1rem 1rem;
+    margin-bottom: 1.8rem;
+}

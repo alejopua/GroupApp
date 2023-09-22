@@ -1,0 +1,22 @@
+.fm-button {
+    font-family: var(--font-subtitle);
+    display: flex;
+    height: 3rem;
+    width: 23rem;
+    background-color: var(--main-color-a);
+    cursor: pointer;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+    font-weight: 700;
+    border-radius: 1rem;
+    color: #fff;
+    padding: 2rem 3rem;
+    cursor: pointer;
+}
+
+.fm-button:hover {
+    background-color: var(--main-color-a1);
+    color: var(--main-color-b);
+}
