@@ -48,8 +48,8 @@ Contributions are what make the open source community such an amazing place to b
 * Alura
 
 
-<h1 align="center" >🏆 Certification<img src="./public/img/CertReact_1.png">🏆
-</h1>
-<h1 align="center" >🏆 Certification<img src="<h1 align="center" >🏆 Certification<img src="./public/img/CertReact_2.png">🏆
-">🏆
-</h1>
+<h1 align="center" >🏆 Certification</h1>
+<div align="center">
+  <img src="./public/img/CertReact_1.png">
+  <img src="./public/img/CertReact_2.png">
+</div>
